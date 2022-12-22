@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-	printf{"Welcome to Fariz Era"};
+	printf{"Welcome to Salmaan Fariz Era"};
 }
